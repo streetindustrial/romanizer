@@ -34,7 +34,6 @@ Usage
 
 .. _V.R. (keybase): https://keybase.io/electrostatix
 .. _violent.red: https://violent.red
-.. _Creating Launch Daemons and Agents (Apple): https://developer.apple.com/library/content/documentation/MacOSX/Conceptual/BPSystemStartup/Chapters/CreatingLaunchdJobs.html
 
 Signature
 =========
